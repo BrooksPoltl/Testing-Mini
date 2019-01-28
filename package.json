@@ -1,0 +1,23 @@
+{
+  "name": "Testing-Mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrooksPoltl/Testing-Mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrooksPoltl/Testing-Mini/issues"
+  },
+  "homepage": "https://github.com/BrooksPoltl/Testing-Mini#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
